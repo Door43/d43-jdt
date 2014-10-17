@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jdt:home|Door43 (jdt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jdt|d43-jdt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jdt/archive/master.zip|d43-jdt.zip]]
+
+**Recent Changes**
+{{changes>ns = jdt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jdt|Ethnologue data]]
+
